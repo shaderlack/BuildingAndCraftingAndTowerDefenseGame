@@ -1,3 +1,4 @@
+如题，前端需要用CocosCreator v2.2.1或以上打开。因为功能点比较散，没有统一的入口，建议先看README的各个功能录屏，再从OfflineStageMap开始试玩，有兴趣后再阅读源码。
 # 0. Preface
 This repository introduces an intact "building & crafting & tower-defense/siege" game with "remotely persisted profile" as well as "pull-based progress update management". 
 
